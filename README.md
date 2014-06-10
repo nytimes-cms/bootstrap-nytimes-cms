@@ -61,6 +61,9 @@ $ npm install
 
 When completed, you'll be able to run the various make commands provided:
 
+#### build - `make bootstrap`
+Builds bootstrap
+
 #### build - `make`
 Runs the recess compiler to rebuild the `/less` files and compiles the docs. Requires recess and uglify-js.
 
